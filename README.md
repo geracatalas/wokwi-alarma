@@ -5,5 +5,8 @@
 #### Muestra los registros de la base de datos
 [https://gerardo33.pythonanywhere.com/records](https://gerardo33.pythonanywhere.com/records)
 
-#### Link al video de la introducción del proyecto:
+#### Link al video de la introducción del proyecto de la evidencia 3:
+[https://youtu.be/mKQkcJblX3g](https://youtu.be/mKQkcJblX3g)
+
+#### Link al video de la introducción del proyecto de la evidencia 2:
 [https://youtu.be/DBfmQGu3Y18](https://youtu.be/DBfmQGu3Y18)
